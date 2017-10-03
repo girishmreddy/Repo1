@@ -1,0 +1,10 @@
+ Volume in drive D is Data
+ Volume Serial Number is CCB5-1700
+
+ Directory of d:\my_git
+
+10/03/2017  11:35 AM    <DIR>          .
+10/03/2017  11:35 AM    <DIR>          ..
+10/03/2017  11:35 AM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  144,604,205,056 bytes free
